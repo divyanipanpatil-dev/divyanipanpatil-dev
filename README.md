@@ -119,13 +119,10 @@ A **QR code–based digital menu and ordering system** designed to provide a sim
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanipanpatil-dev&show_icons=true&theme=dark" alt="Divyani's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanipanpatil-dev&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+![Divyani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanipanpatil-dev&show_icons=true&theme=dark)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanipanpatil-dev&layout=compact&theme=dark)
+
 
 ## 🤝 Let's Connect
 
