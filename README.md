@@ -77,7 +77,7 @@ A **QR code–based digital menu and ordering system** designed to provide a sim
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-🔗 **[ https://divyanipanpatil-dev.github.io/Restaurant-Management-System/](#)**
+🔗 **[Demo]( https://divyanipanpatil-dev.github.io/Restaurant-Management-System/)**
 
 ---
 
